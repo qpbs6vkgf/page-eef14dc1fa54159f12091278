@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.golhkuw.cn/sitemap.xml
